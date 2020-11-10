@@ -7,3 +7,4 @@ line 6
 line7
 
 branch commit 1
+commit 2
